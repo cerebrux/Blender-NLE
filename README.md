@@ -1,9 +1,11 @@
 Blender NLE
 =========
 
-The Non-Linear Video Editor of [Blender] allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking. Check out the video tutorials (playlist) created by [Mikeycal Meyers]
+The Non-Linear Video Editor of [Blender] allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking. Check out the video tutorials (playlist) created by [Mikeycal Meyers] to learn how to use Blender as a video editor
 
-I've created some preset settings for the Blenders Video editing UI and keyboard shortcuts which are inspired mostly by Final Cut Pro
+I've created some preset settings for the Blender Video Editing UI and Keyboard Shortcuts which are mostly inspired from the commercial software Final Cut Pro
+
+The files are located in the "import these" folder:
 
   - ##### NLEvideoInterface.blend : 
   the Video Editing interface
@@ -14,14 +16,14 @@ I've created some preset settings for the Blenders Video editing UI and keyboard
 Download
 ----
 - latest :        [Download] [1]
-- version :       1.1.0
+- version :       1.1.1
 - history :       [Cangelog] [3]
 - old versions :  [View] [2]
 
 Installation
 --------------
 
-Installation of the presets is easy :
+The installation of the preset settings is easy :
 
 - For the *Video Editing interface* just open the NLEvideoInterface.blend file from the blender file menu
 
@@ -44,6 +46,7 @@ Installation of the presets is easy :
 License
 ----
 
+The contents of this repository are licensed under:
 [Artistic License v2.0]
 
 
