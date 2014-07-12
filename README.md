@@ -13,10 +13,10 @@ I've created some preset settings for the Blenders Video editing UI and keyboard
 
 Download
 ----
-* ##### latest :        [Download] [1]
-* ##### version :       1.1.0
-* ##### history :       [Cangelog] [3]
-* ##### old versions :  [View] [2]
+- ##### latest :        [Download] [1]
+- ##### version :       1.1.0
+- ##### history :       [Cangelog] [3]
+- ##### old versions :  [View] [2]
 
 Installation
 --------------
