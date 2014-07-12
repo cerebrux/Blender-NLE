@@ -1,19 +1,57 @@
-Blender-NLE
-===========
+Blender NLE
+=========
 
-These are my preset setting for the Blenders Video editing UI and keyboard shortcuts which are inspired by Final Cut Pro
+The Non-Linear Video Editor of Blender allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking. Check out the introductory tutorials created by [Mikeycal Meyers]
 
-Version : 1.0
-History : changlog [1]
+I've created some preset settings for the Blenders Video editing UI and keyboard shortcuts which are inspired mostly by Final Cut Pro
 
-How to use
-----------
+  - ##### NLEvideoInterface.blend : 
+  the Video Editing interface
+ 
+  - ##### NLE_KeyPreset.py :
+  the keyboard shorcuts
 
-In the "import these" folder you can find the two files that you can import in blender.
+Download
+----
+* ##### latest :        [Download] [1]
+* ##### version :       1.1.0
+* ##### history :       [Cangelog] [3]
+* ##### old versions :  [View] [2]
 
-1 * NLEvideoInterface.blend : is for the Video Editing interface
-2 * NLE_KeyPreset	    : is for the keyboard shorcuts
+Installation
+--------------
 
-Open Blender and then load the (1) by going to File -> Open. Then for the (2) file open user preferences --> Input --> Import Key Configuration
+Installation of the presets is easy :
 
-[1] : https://github.com/cerebrux/Blender-NLE/commits/master
+- For the *Video Editing interface* just open the NLEvideoInterface.blend file from the blender file menu
+
+```
+> File -> Open
+```
+
+- For the *keyboard shorcuts* just import the NLE_KeyPreset.py file from the User Preferences
+
+```
+> File -> User Preferences --> Input --> Import Key Configuration
+```
+
+- If you want Blender to start up always in the Video Editing mode, just save the startup file
+
+```
+> File -> Save Startup File
+```
+
+License
+----
+
+[Artistic License v2.0]
+
+
+**Free Software, Hell Yeah!**
+
+[1]:https://github.com/cerebrux/Blender-NLE/archive/master.zip
+[2]:https://github.com/cerebrux/Blender-NLE/releases
+[3]:https://github.com/cerebrux/Blender-NLE/commits/master
+[Artistic License v2.0]:https://github.com/cerebrux/Blender-NLE/blob/master/LICENSE
+[Mikeycal Meyers]:https://www.youtube.com/playlist?list=PLjyuVPBuorqIZOWRDICIZ2WCFapHHYLPv
+
