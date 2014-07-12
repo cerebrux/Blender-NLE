@@ -1,7 +1,7 @@
 Blender NLE
 =========
 
-The Non-Linear Video Editor of Blender allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking. Check out the introductory tutorials created by [Mikeycal Meyers]
+The Non-Linear Video Editor of [Blender] allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking. Check out the video tutorials created by [Mikeycal Meyers] (playlist)
 
 I've created some preset settings for the Blenders Video editing UI and keyboard shortcuts which are inspired mostly by Final Cut Pro
 
@@ -13,10 +13,10 @@ I've created some preset settings for the Blenders Video editing UI and keyboard
 
 Download
 ----
-- ##### latest :        [Download] [1]
-- ##### version :       1.1.0
-- ##### history :       [Cangelog] [3]
-- ##### old versions :  [View] [2]
+- latest :        [Download] [1]
+- version :       1.1.0
+- history :       [Cangelog] [3]
+- old versions :  [View] [2]
 
 Installation
 --------------
@@ -54,4 +54,4 @@ License
 [3]:https://github.com/cerebrux/Blender-NLE/commits/master
 [Artistic License v2.0]:https://github.com/cerebrux/Blender-NLE/blob/master/LICENSE
 [Mikeycal Meyers]:https://www.youtube.com/playlist?list=PLjyuVPBuorqIZOWRDICIZ2WCFapHHYLPv
-
+[Blender]:http://www.blender.org/
