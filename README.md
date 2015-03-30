@@ -32,7 +32,7 @@ Addons
 Download
 ----
 - latest :        [Download] [1]
-- version :       2.0.1
+- version :       3.0.0
 - history :       [Cangelog] [3]
 - old versions :  [View] [2]
 
